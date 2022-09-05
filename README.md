@@ -1,3 +1,6 @@
+##贪吃蛇
+用type script复刻
+
 # 安装依赖
 npm install
 
